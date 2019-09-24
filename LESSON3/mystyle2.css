@@ -27,7 +27,7 @@ text-decoration: none }
 a:link {
 color: blue }
 a:visited {
-color: purple }
+color: rgb(204, 85, 121) }
 address {
 margin-top: 1em;
 padding-top: 1em;
